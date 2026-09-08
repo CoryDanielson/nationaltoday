@@ -4,7 +4,7 @@
   "weekday": "MON",
   "month_day": "SEP 7",
   "source": "https://nationaltoday.com/september-7/",
-  "count": 22,
+  "count": 23,
   "holidays": [
     {
       "name": "Labor Day",
@@ -150,6 +150,13 @@
       "name": "Texas Energy Savings Day",
       "url": "https://nationaltoday.com/texas-energy-savings-day/",
       "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Texas-Energy-Savings-Day.jpg",
+      "weekday": "MON",
+      "month_day": "SEP 07"
+    },
+    {
+      "name": "West Indian Day Parade",
+      "url": "https://nationaltoday.com/west-indian-day-parade/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/09/West-Indian.jpg",
       "weekday": "MON",
       "month_day": "SEP 07"
     },
