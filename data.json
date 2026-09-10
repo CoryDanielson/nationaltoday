@@ -1,120 +1,12 @@
 {
-  "scraped_at": "Sep 9, 2026 \u00b7 10:16 AM UTC",
-  "today": "2026-09-09",
+  "scraped_at": "Sep 10, 2026 \u00b7 10:10 AM UTC",
+  "today": "2026-09-10",
   "order": [
-    "2026-09-08",
     "2026-09-09",
-    "2026-09-10"
+    "2026-09-10",
+    "2026-09-11"
   ],
   "days": {
-    "2026-09-08": {
-      "date": "2026-09-08",
-      "label": "Tuesday, September 8, 2026",
-      "weekday": "TUE",
-      "month_day": "SEP 8",
-      "source": "https://nationaltoday.com/september-8/",
-      "count": 14,
-      "holidays": [
-        {
-          "name": "International Literacy Day",
-          "url": "https://nationaltoday.com/international-literacy-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/international-literacy-day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "Telephone Tuesday",
-          "url": "https://nationaltoday.com/telephone-tuesday/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Telephone-Tuesday-1.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "Actors' Day",
-          "url": "https://nationaltoday.com/actors-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/lkjhgfhjkl-11-min.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "Another Look Unlimited Day",
-          "url": "https://nationaltoday.com/another-look-unlimited-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Another-Look-Unlimited.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "National Ampersand Day",
-          "url": "https://nationaltoday.com/national-ampersand-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Ampersand-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "National Ants on a Log Day",
-          "url": "https://nationaltoday.com/national-ants-on-a-log-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Ants-on-a-Log-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "National Dog Walker Appreciation Day",
-          "url": "https://nationaltoday.com/national-dog-walker-appreciation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/National-Dog-Walker-Appreciation-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "National Iguana Awareness Day",
-          "url": "https://nationaltoday.com/national-iguana-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Iguana-Awareness-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "National Pediatric Hematology/Oncology Nurses Day",
-          "url": "https://nationaltoday.com/national-pediatric-hematology-oncology-nurses-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/21-National-Pediatric-Hematology.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "Our Lady of Meritxell Day",
-          "url": "https://nationaltoday.com/our-lady-of-meritxell-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/45-Lady-of-Meritxell.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "Pardon Day",
-          "url": "https://nationaltoday.com/pardon-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Pardon.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "Star Trek Day",
-          "url": "https://nationaltoday.com/star-trek-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Star-Trek-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "World Literacy Day",
-          "url": "https://nationaltoday.com/world-literacy-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/World-Literacy-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        },
-        {
-          "name": "World Physical Therapy Day",
-          "url": "https://nationaltoday.com/world-physical-therapy-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/World-Physical-Therapy-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 08"
-        }
-      ]
-    },
     "2026-09-09": {
       "date": "2026-09-09",
       "label": "Wednesday, September 9, 2026",
@@ -300,6 +192,72 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/07/3-Top-Up-Day.jpg",
           "weekday": "THU",
           "month_day": "SEP 10"
+        }
+      ]
+    },
+    "2026-09-11": {
+      "date": "2026-09-11",
+      "label": "Friday, September 11, 2026",
+      "weekday": "FRI",
+      "month_day": "SEP 11",
+      "source": "https://nationaltoday.com/september-11/",
+      "count": 8,
+      "holidays": [
+        {
+          "name": "National Make Your Bed Day",
+          "url": "https://nationaltoday.com/national-make-bed-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-make-bed-day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 11"
+        },
+        {
+          "name": "Patriot Day",
+          "url": "https://nationaltoday.com/patriot-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-day-service-remembrance.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 11"
+        },
+        {
+          "name": "Libraries Remember Day",
+          "url": "https://nationaltoday.com/libraries-remember-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Libraries-Remember-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 11"
+        },
+        {
+          "name": "National 401(k) Day",
+          "url": "https://nationaltoday.com/national-401k-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-401k-day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 11"
+        },
+        {
+          "name": "National Hot Cross Bun Day",
+          "url": "https://nationaltoday.com/national-hot-cross-bun-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/National-Hot-Cross-Bun-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 11"
+        },
+        {
+          "name": "No News is Good News Day",
+          "url": "https://nationaltoday.com/no-news-is-good-news-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/No-News-is-Good-News-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 11"
+        },
+        {
+          "name": "Rosh Hashanah",
+          "url": "https://nationaltoday.com/rosh-hashanah/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/rosh-hashanah.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 11"
+        },
+        {
+          "name": "Stand Up To Cancer Day",
+          "url": "https://nationaltoday.com/stand-up-to-cancer-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Stand-Up-To-Cancer-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 11"
         }
       ]
     }

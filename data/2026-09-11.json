@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-11",
+  "label": "Friday, September 11, 2026",
+  "weekday": "FRI",
+  "month_day": "SEP 11",
+  "source": "https://nationaltoday.com/september-11/",
+  "count": 8,
+  "holidays": [
+    {
+      "name": "National Make Your Bed Day",
+      "url": "https://nationaltoday.com/national-make-bed-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-make-bed-day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 11"
+    },
+    {
+      "name": "Patriot Day",
+      "url": "https://nationaltoday.com/patriot-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-day-service-remembrance.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 11"
+    },
+    {
+      "name": "Libraries Remember Day",
+      "url": "https://nationaltoday.com/libraries-remember-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Libraries-Remember-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 11"
+    },
+    {
+      "name": "National 401(k) Day",
+      "url": "https://nationaltoday.com/national-401k-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-401k-day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 11"
+    },
+    {
+      "name": "National Hot Cross Bun Day",
+      "url": "https://nationaltoday.com/national-hot-cross-bun-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/National-Hot-Cross-Bun-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 11"
+    },
+    {
+      "name": "No News is Good News Day",
+      "url": "https://nationaltoday.com/no-news-is-good-news-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/No-News-is-Good-News-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 11"
+    },
+    {
+      "name": "Rosh Hashanah",
+      "url": "https://nationaltoday.com/rosh-hashanah/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/rosh-hashanah.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 11"
+    },
+    {
+      "name": "Stand Up To Cancer Day",
+      "url": "https://nationaltoday.com/stand-up-to-cancer-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Stand-Up-To-Cancer-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 11"
+    }
+  ]
+}
