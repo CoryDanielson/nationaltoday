@@ -1,120 +1,12 @@
 {
-  "scraped_at": "Sep 10, 2026 \u00b7 10:10 AM UTC",
-  "today": "2026-09-10",
+  "scraped_at": "Sep 11, 2026 \u00b7 10:08 AM UTC",
+  "today": "2026-09-11",
   "order": [
-    "2026-09-09",
     "2026-09-10",
-    "2026-09-11"
+    "2026-09-11",
+    "2026-09-12"
   ],
   "days": {
-    "2026-09-09": {
-      "date": "2026-09-09",
-      "label": "Wednesday, September 9, 2026",
-      "weekday": "WED",
-      "month_day": "SEP 9",
-      "source": "https://nationaltoday.com/september-9/",
-      "count": 14,
-      "holidays": [
-        {
-          "name": "International Sudoku Day",
-          "url": "https://nationaltoday.com/international-sudoku-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/international-sudoku-day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "California Admission Day",
-          "url": "https://nationaltoday.com/california-admission-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/CALIFORNIA-ADMISSION-DAY.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "Care Bears Share Your Care Day",
-          "url": "https://nationaltoday.com/care-bears-share-your-care-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/shutterstock_386360869-min.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "Emergency Services Day",
-          "url": "https://nationaltoday.com/emergency-services-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Emergency-Services-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "Independence Day of Tajikistan",
-          "url": "https://nationaltoday.com/independence-day-of-tajikistan/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Tajikistan-Independence-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "International Box Wine Day",
-          "url": "https://nationaltoday.com/international-box-wine-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/18-Box-Wine.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "International Day to Protect Education from Attack",
-          "url": "https://nationaltoday.com/international-day-to-protect-education-from-attack/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/International-Day-to-Protect-Education-From-Attack.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "International Fetal Alcohol Spectrum Disorders Awareness Day",
-          "url": "https://nationaltoday.com/international-fetal-alcohol-spectrum-disorders-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/lkjhgfhjkl-14-min-2.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "National When Pigs Fly Day",
-          "url": "https://nationaltoday.com/national-when-pigs-fly-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567969-min-1.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "National Wiener Schnitzel Day",
-          "url": "https://nationaltoday.com/national-wiener-schnitzel-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-wiener-schnitzel-day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "Steak Au Poivre Day",
-          "url": "https://nationaltoday.com/steak-au-poivre-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Steak-Au-Poivre-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "Teddy Bear Day",
-          "url": "https://nationaltoday.com/teddy-bear-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Teddy-Bear-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "Toronto International Film Festival",
-          "url": "https://nationaltoday.com/toronto-international-film-festival/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/36-Toronto-International.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        },
-        {
-          "name": "Wonderful Weirdos Day",
-          "url": "https://nationaltoday.com/wonderful-weirdos-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Wonderful-Weirdos-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 09"
-        }
-      ]
-    },
     "2026-09-10": {
       "date": "2026-09-10",
       "label": "Thursday, September 10, 2026",
@@ -258,6 +150,100 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Stand-Up-To-Cancer-Day.jpg",
           "weekday": "FRI",
           "month_day": "SEP 11"
+        }
+      ]
+    },
+    "2026-09-12": {
+      "date": "2026-09-12",
+      "label": "Saturday, September 12, 2026",
+      "weekday": "SAT",
+      "month_day": "SEP 12",
+      "source": "https://nationaltoday.com/september-12/",
+      "count": 12,
+      "holidays": [
+        {
+          "name": "National Video Game Day",
+          "url": "https://nationaltoday.com/national-video-game-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Video-Games.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "Abergavenny Food Festival",
+          "url": "https://nationaltoday.com/abergavenny-food-festival/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568322-min.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "Carl Garner Federal Lands Cleanup Day",
+          "url": "https://nationaltoday.com/carl-garner-federal-lands-cleanup-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/Carl-Garner-Federal-Lands-Cleanup-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "Drive Your Studebaker Day",
+          "url": "https://nationaltoday.com/drive-your-studebaker-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Drive-Your-Studebaker-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "Farmers' Consumer Awareness Day",
+          "url": "https://nationaltoday.com/farmers-consumer-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Farmers-Consumer-Awareness-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "Free Dental Day",
+          "url": "https://nationaltoday.com/free-dental-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/Free-Dentistry-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "German Language Day",
+          "url": "https://nationaltoday.com/german-language-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/German-Language.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "National Chocolate Milkshake Day",
+          "url": "https://nationaltoday.com/national-chocolate-milkshake-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Chocolate-Milkshake-day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "National Day of Encouragement",
+          "url": "https://nationaltoday.com/national-day-of-encouragement/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Day-of-Encouragement-.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "National Police Woman Day",
+          "url": "https://nationaltoday.com/national-police-woman-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Police-Woman-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "National Report Medicare Fraud Day",
+          "url": "https://nationaltoday.com/national-report-medicare-fraud-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Report-Medicare-Fraud-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
+        },
+        {
+          "name": "United Nations Day for South-South Cooperation",
+          "url": "https://nationaltoday.com/united-nations-day-for-south-south-cooperation/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/United-Nations-Day-for-South-South-Cooperation.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 12"
         }
       ]
     }
