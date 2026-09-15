@@ -1,155 +1,12 @@
 {
-  "scraped_at": "Sep 14, 2026 \u00b7 11:07 AM UTC",
-  "today": "2026-09-14",
+  "scraped_at": "Sep 15, 2026 \u00b7 10:36 AM UTC",
+  "today": "2026-09-15",
   "order": [
-    "2026-09-13",
     "2026-09-14",
-    "2026-09-15"
+    "2026-09-15",
+    "2026-09-16"
   ],
   "days": {
-    "2026-09-13": {
-      "date": "2026-09-13",
-      "label": "Sunday, September 13, 2026",
-      "weekday": "SUN",
-      "month_day": "SEP 13",
-      "source": "https://nationaltoday.com/september-13/",
-      "count": 19,
-      "holidays": [
-        {
-          "name": "Grandparents Day",
-          "url": "https://nationaltoday.com/grandparents-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/grandparents-1.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "National Peanut Day",
-          "url": "https://nationaltoday.com/national-peanut-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-peanut-day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "Bald is Beautiful Day",
-          "url": "https://nationaltoday.com/bald-is-beautiful-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Bald-is-Beautiful-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "Day of the Homeland",
-          "url": "https://nationaltoday.com/day-of-the-homeland/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/day-of-the-homeland.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "Defy Superstition Day",
-          "url": "https://nationaltoday.com/defy-superstition-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Defy-Superstition-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "European Heritage Days",
-          "url": "https://nationaltoday.com/european-heritage-days/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/european-heritage-days.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "International Chocolate Day",
-          "url": "https://nationaltoday.com/international-chocolate-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/INTERNATIONAL-CHOCOLATE-DAY.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "National Celiac Disease Awareness Day",
-          "url": "https://nationaltoday.com/national-celiac-disease-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-celiac-disease-awareness-day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "National Hug Your Boss Day",
-          "url": "https://nationaltoday.com/national-hug-your-boss-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Hug-Your-Boss-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "National Hug Your Hound Day",
-          "url": "https://nationaltoday.com/national-hug-your-hound-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Hug-Your-Hound-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "National Kids Take Over the Kitchen Day",
-          "url": "https://nationaltoday.com/national-kids-take-over-the-kitchen-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/NATIONAL-KIDS-TAKE-OVER-THE-KITCHEN-DAY-.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "National Pet Memorial Day",
-          "url": "https://nationaltoday.com/national-pet-memorial-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Pet-Memorial.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "National Twilighters Day",
-          "url": "https://nationaltoday.com/national-twilighters-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/10/456840895-min.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "Pet Birth Defect Awareness Day",
-          "url": "https://nationaltoday.com/pet-birth-defect-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Pet-Birth-Defect-Awareness-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "Positive Thinking Day",
-          "url": "https://nationaltoday.com/positive-thinking-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Positive-Thinking-Day-1.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "Programmers Day",
-          "url": "https://nationaltoday.com/programmers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Programmers-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "Roald Dahl Day",
-          "url": "https://nationaltoday.com/roald-dahl-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Roald-Dahl-.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "Supernatural Day",
-          "url": "https://nationaltoday.com/supernatural-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Supernatural-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        },
-        {
-          "name": "Uncle Sam Day",
-          "url": "https://nationaltoday.com/uncle-sam-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Uncle-Sam-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "SEP 13"
-        }
-      ]
-    },
     "2026-09-14": {
       "date": "2026-09-14",
       "label": "Monday, September 14, 2026",
@@ -426,6 +283,149 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/07/17-World-Engineers-Day.jpg",
           "weekday": "TUE",
           "month_day": "SEP 15"
+        }
+      ]
+    },
+    "2026-09-16": {
+      "date": "2026-09-16",
+      "label": "Wednesday, September 16, 2026",
+      "weekday": "WED",
+      "month_day": "SEP 16",
+      "source": "https://nationaltoday.com/september-16/",
+      "count": 19,
+      "holidays": [
+        {
+          "name": "Anne Bradstreet Day",
+          "url": "https://nationaltoday.com/anne-bradstreet-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Anne-Bradstreet-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "Collect Rocks Day",
+          "url": "https://nationaltoday.com/collect-rocks-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Collect-Rocks-.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "International Day for the Preservation of the Ozone Layer",
+          "url": "https://nationaltoday.com/international-day-for-the-preservation-of-the-ozone-layer/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Day-for-the-Preservation-of-the-Ozone-Layer.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "Malaysia Day",
+          "url": "https://nationaltoday.com/malaysia-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/04/Malaysia.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "Mayflower Day",
+          "url": "https://nationaltoday.com/mayflower-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Mayflower-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "Mexican Independence Day",
+          "url": "https://nationaltoday.com/mexican-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/mexican-independence-day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "National Cinnamon Raisin Bread Day",
+          "url": "https://nationaltoday.com/national-cinnamon-raisin-bread-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Cinnamon-Raisin-Bread-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "National Play-Doh Day",
+          "url": "https://nationaltoday.com/national-play-doh-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Play-Doh-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "National School Backpack Awareness Day",
+          "url": "https://nationaltoday.com/national-school-backpack-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-school-backpack-awareness-day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "National Sit With a Stranger Day",
+          "url": "https://nationaltoday.com/national-sit-with-a-stranger-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Sit-with-a-Stranger-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "National Stepfamily Day",
+          "url": "https://nationaltoday.com/national-stepfamily-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Stepfamily-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "National Tattoo Story Day",
+          "url": "https://nationaltoday.com/national-tattoo-story-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Tattoo-Story-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "Papua New Guinea Independence Day",
+          "url": "https://nationaltoday.com/papua-new-guinea-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/5-Papua-New-Guinea-Independence-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "Stay Away From Seattle Day",
+          "url": "https://nationaltoday.com/stay-away-from-seattle-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Stay-Away-From-Seattle-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "Teenager Workout Day",
+          "url": "https://nationaltoday.com/teenager-workout-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Teenager-Workout-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "Trail of Tears Commemoration Day",
+          "url": "https://nationaltoday.com/trail-of-tears-commemoration-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/46-National-Trail-of-Tears.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "Working Parents Day",
+          "url": "https://nationaltoday.com/working-parents-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Working-Parents-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "World Barber Day",
+          "url": "https://nationaltoday.com/barber-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/02/Barbers-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
+        },
+        {
+          "name": "World Ozone Day",
+          "url": "https://nationaltoday.com/world-ozone-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/24-World-Ozone-Day.jpg",
+          "weekday": "WED",
+          "month_day": "SEP 16"
         }
       ]
     }
