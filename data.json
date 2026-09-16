@@ -1,92 +1,12 @@
 {
-  "scraped_at": "Sep 15, 2026 \u00b7 10:36 AM UTC",
-  "today": "2026-09-15",
+  "scraped_at": "Sep 16, 2026 \u00b7 10:24 AM UTC",
+  "today": "2026-09-16",
   "order": [
-    "2026-09-14",
     "2026-09-15",
-    "2026-09-16"
+    "2026-09-16",
+    "2026-09-17"
   ],
   "days": {
-    "2026-09-14": {
-      "date": "2026-09-14",
-      "label": "Monday, September 14, 2026",
-      "weekday": "MON",
-      "month_day": "SEP 14",
-      "source": "https://nationaltoday.com/september-14/",
-      "count": 10,
-      "holidays": [
-        {
-          "name": "Gedaliah Fast",
-          "url": "https://nationaltoday.com/gedaliah-fast/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Gedaliah-Fast.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        },
-        {
-          "name": "Gobstopper Day",
-          "url": "https://nationaltoday.com/gobstopper-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Gobstopper-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        },
-        {
-          "name": "National Coloring Day",
-          "url": "https://nationaltoday.com/national-coloring-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-coloring-day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        },
-        {
-          "name": "National Cream Filled Donut Day",
-          "url": "https://nationaltoday.com/national-cream-filled-donut-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Cream-Filled-Donut.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        },
-        {
-          "name": "NATIONAL EAT A HOAGIE DAY",
-          "url": "https://nationaltoday.com/national-eat-a-hoagie-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/NATIONAL-EAT-A-HOAGIE-DAY.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        },
-        {
-          "name": "National Food Is Medicine Day",
-          "url": "https://nationaltoday.com/national-food-is-medicine-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Food-is-Medicine-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        },
-        {
-          "name": "NATIONAL LIVE CREATIVE DAY",
-          "url": "https://nationaltoday.com/national-live-creative-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/LIVE-CREATIVE-DAY.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        },
-        {
-          "name": "National Rosa Tequila Day",
-          "url": "https://nationaltoday.com/national-rosa-tequila-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/rosa-tequila.png",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        },
-        {
-          "name": "National Sober Day",
-          "url": "https://nationaltoday.com/national-sober-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Sober-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        },
-        {
-          "name": "National Virginia Day",
-          "url": "https://nationaltoday.com/national-virginia-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Virginia-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 14"
-        }
-      ]
-    },
     "2026-09-15": {
       "date": "2026-09-15",
       "label": "Tuesday, September 15, 2026",
@@ -426,6 +346,142 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/07/24-World-Ozone-Day.jpg",
           "weekday": "WED",
           "month_day": "SEP 16"
+        }
+      ]
+    },
+    "2026-09-17": {
+      "date": "2026-09-17",
+      "label": "Thursday, September 17, 2026",
+      "weekday": "THU",
+      "month_day": "SEP 17",
+      "source": "https://nationaltoday.com/september-17/",
+      "count": 18,
+      "holidays": [
+        {
+          "name": "International Patient Safety Day",
+          "url": "https://nationaltoday.com/international-patient-safety-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/patient.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "National DEI Day",
+          "url": "https://nationaltoday.com/national-dei-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2025/08/DEI-Day.png",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "National Pet Bird Day",
+          "url": "https://nationaltoday.com/national-pet-bird-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/national-pet-bird-day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "Australian Citizenship Day",
+          "url": "https://nationaltoday.com/australian-citizenship-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/38-Australian-Citizenship.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "Constitution Day",
+          "url": "https://nationaltoday.com/constitution-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/constitution-day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "INTERNATIONAL COUNTRY MUSIC DAY",
+          "url": "https://nationaltoday.com/international-country-music-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/INTERNATIONAL-COUNTRY-MUSIC-DAY.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "International Grenache Day",
+          "url": "https://nationaltoday.com/international-grenache-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Grenache-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "National Apple Dumpling Day",
+          "url": "https://nationaltoday.com/national-apple-dumpling-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Apple-Dumpling-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "National Arielle K. Sterrett Day",
+          "url": "https://nationaltoday.com/national-arielle-k-sterrett-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Arielle-K.-Sterrett-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "National Monte Cristo Day",
+          "url": "https://nationaltoday.com/national-monte-cristo-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Monte-Cristo-Day-.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "National Pawpaw Day",
+          "url": "https://nationaltoday.com/national-pawpaw-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Pawpaw.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "National Pet Carbon Monoxide (CO) Safety Day",
+          "url": "https://nationaltoday.com/national-pet-carbon-monoxide-co-safety-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/lkjhgfhjklyyy-min.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "National Professional House Cleaners Day",
+          "url": "https://nationaltoday.com/national-professional-house-cleaners-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/houseCleaners.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "National Table Shuffleboard Day",
+          "url": "https://nationaltoday.com/national-table-shuffleboard-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Table-Shuffleboard-Day-.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "Smithsonian Day",
+          "url": "https://nationaltoday.com/smithsonian-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Smithsonian-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "Time's Up Day",
+          "url": "https://nationaltoday.com/times-up-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Times-Up-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "Wales International Film Festival",
+          "url": "https://nationaltoday.com/wales-international-film-festival/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Wales-International-Film-Festival.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
+        },
+        {
+          "name": "World Patient Safety Day",
+          "url": "https://nationaltoday.com/world-patient-safety-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-14-min.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 17"
         }
       ]
     }
