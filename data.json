@@ -1,148 +1,12 @@
 {
-  "scraped_at": "Sep 18, 2026 \u00b7 10:10 AM UTC",
-  "today": "2026-09-18",
+  "scraped_at": "Sep 19, 2026 \u00b7 9:51 AM UTC",
+  "today": "2026-09-19",
   "order": [
-    "2026-09-17",
     "2026-09-18",
-    "2026-09-19"
+    "2026-09-19",
+    "2026-09-20"
   ],
   "days": {
-    "2026-09-17": {
-      "date": "2026-09-17",
-      "label": "Thursday, September 17, 2026",
-      "weekday": "THU",
-      "month_day": "SEP 17",
-      "source": "https://nationaltoday.com/september-17/",
-      "count": 18,
-      "holidays": [
-        {
-          "name": "International Patient Safety Day",
-          "url": "https://nationaltoday.com/international-patient-safety-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/patient.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "National DEI Day",
-          "url": "https://nationaltoday.com/national-dei-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2025/08/DEI-Day.png",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "National Pet Bird Day",
-          "url": "https://nationaltoday.com/national-pet-bird-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/national-pet-bird-day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "Australian Citizenship Day",
-          "url": "https://nationaltoday.com/australian-citizenship-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/38-Australian-Citizenship.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "Constitution Day",
-          "url": "https://nationaltoday.com/constitution-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/constitution-day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "INTERNATIONAL COUNTRY MUSIC DAY",
-          "url": "https://nationaltoday.com/international-country-music-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/INTERNATIONAL-COUNTRY-MUSIC-DAY.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "International Grenache Day",
-          "url": "https://nationaltoday.com/international-grenache-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Grenache-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "National Apple Dumpling Day",
-          "url": "https://nationaltoday.com/national-apple-dumpling-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Apple-Dumpling-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "National Arielle K. Sterrett Day",
-          "url": "https://nationaltoday.com/national-arielle-k-sterrett-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Arielle-K.-Sterrett-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "National Monte Cristo Day",
-          "url": "https://nationaltoday.com/national-monte-cristo-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Monte-Cristo-Day-.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "National Pawpaw Day",
-          "url": "https://nationaltoday.com/national-pawpaw-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Pawpaw.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "National Pet Carbon Monoxide (CO) Safety Day",
-          "url": "https://nationaltoday.com/national-pet-carbon-monoxide-co-safety-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/lkjhgfhjklyyy-min.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "National Professional House Cleaners Day",
-          "url": "https://nationaltoday.com/national-professional-house-cleaners-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/houseCleaners.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "National Table Shuffleboard Day",
-          "url": "https://nationaltoday.com/national-table-shuffleboard-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Table-Shuffleboard-Day-.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "Smithsonian Day",
-          "url": "https://nationaltoday.com/smithsonian-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Smithsonian-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "Time's Up Day",
-          "url": "https://nationaltoday.com/times-up-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Times-Up-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "Wales International Film Festival",
-          "url": "https://nationaltoday.com/wales-international-film-festival/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Wales-International-Film-Festival.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        },
-        {
-          "name": "World Patient Safety Day",
-          "url": "https://nationaltoday.com/world-patient-safety-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-14-min.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 17"
-        }
-      ]
-    },
     "2026-09-18": {
       "date": "2026-09-18",
       "label": "Friday, September 18, 2026",
@@ -461,6 +325,72 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-22-min.jpg",
           "weekday": "SAT",
           "month_day": "SEP 19"
+        }
+      ]
+    },
+    "2026-09-20": {
+      "date": "2026-09-20",
+      "label": "Sunday, September 20, 2026",
+      "weekday": "SUN",
+      "month_day": "SEP 20",
+      "source": "https://nationaltoday.com/september-20/",
+      "count": 8,
+      "holidays": [
+        {
+          "name": "National Queso Day",
+          "url": "https://nationaltoday.com/national-queso-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/shutterstock_576282517-1-min.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 20"
+        },
+        {
+          "name": "German World Children's Day",
+          "url": "https://nationaltoday.com/german-world-childrens-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/german-world-childrens-day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 20"
+        },
+        {
+          "name": "International NFT Day",
+          "url": "https://nationaltoday.com/nft-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/nfts.png",
+          "weekday": "SUN",
+          "month_day": "SEP 20"
+        },
+        {
+          "name": "National Care For Kids Day",
+          "url": "https://nationaltoday.com/national-care-for-kids-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Care-For-Kids-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 20"
+        },
+        {
+          "name": "National Crime and Intelligence Analyst Appreciation Day",
+          "url": "https://nationaltoday.com/national-crime-and-intelligence-analyst-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568212-min.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 20"
+        },
+        {
+          "name": "National Fried Rice Day",
+          "url": "https://nationaltoday.com/national-fried-rice-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Fried-Rice-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 20"
+        },
+        {
+          "name": "National Punch Day",
+          "url": "https://nationaltoday.com/national-punch-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-punch-day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 20"
+        },
+        {
+          "name": "National String Cheese Day",
+          "url": "https://nationaltoday.com/national-string-cheese-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-String-Cheese-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 20"
         }
       ]
     }

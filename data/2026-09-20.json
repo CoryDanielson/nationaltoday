@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-20",
+  "label": "Sunday, September 20, 2026",
+  "weekday": "SUN",
+  "month_day": "SEP 20",
+  "source": "https://nationaltoday.com/september-20/",
+  "count": 8,
+  "holidays": [
+    {
+      "name": "National Queso Day",
+      "url": "https://nationaltoday.com/national-queso-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/09/shutterstock_576282517-1-min.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 20"
+    },
+    {
+      "name": "German World Children's Day",
+      "url": "https://nationaltoday.com/german-world-childrens-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/german-world-childrens-day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 20"
+    },
+    {
+      "name": "International NFT Day",
+      "url": "https://nationaltoday.com/nft-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/09/nfts.png",
+      "weekday": "SUN",
+      "month_day": "SEP 20"
+    },
+    {
+      "name": "National Care For Kids Day",
+      "url": "https://nationaltoday.com/national-care-for-kids-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Care-For-Kids-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 20"
+    },
+    {
+      "name": "National Crime and Intelligence Analyst Appreciation Day",
+      "url": "https://nationaltoday.com/national-crime-and-intelligence-analyst-appreciation-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568212-min.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 20"
+    },
+    {
+      "name": "National Fried Rice Day",
+      "url": "https://nationaltoday.com/national-fried-rice-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Fried-Rice-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 20"
+    },
+    {
+      "name": "National Punch Day",
+      "url": "https://nationaltoday.com/national-punch-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-punch-day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 20"
+    },
+    {
+      "name": "National String Cheese Day",
+      "url": "https://nationaltoday.com/national-string-cheese-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-String-Cheese-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 20"
+    }
+  ]
+}
