@@ -1,176 +1,12 @@
 {
-  "scraped_at": "Sep 20, 2026 \u00b7 10:13 AM UTC",
-  "today": "2026-09-20",
+  "scraped_at": "Sep 21, 2026 \u00b7 11:18 AM UTC",
+  "today": "2026-09-21",
   "order": [
-    "2026-09-19",
     "2026-09-20",
-    "2026-09-21"
+    "2026-09-21",
+    "2026-09-22"
   ],
   "days": {
-    "2026-09-19": {
-      "date": "2026-09-19",
-      "label": "Saturday, September 19, 2026",
-      "weekday": "SAT",
-      "month_day": "SEP 19",
-      "source": "https://nationaltoday.com/september-19/",
-      "count": 22,
-      "holidays": [
-        {
-          "name": "National Dance Day",
-          "url": "https://nationaltoday.com/national-dance-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Dance.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Meow Like a Pirate Day",
-          "url": "https://nationaltoday.com/national-meow-like-pirate-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-meow-like-pirate-day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Overthinkers Day",
-          "url": "https://nationaltoday.com/national-overthinkers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2025/08/overthinkers-day-4.png",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "Talk Like a Pirate Day",
-          "url": "https://nationaltoday.com/talk-like-a-pirate-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/talk-like-pirate-day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "Aortic Dissection Awareness Day",
-          "url": "https://nationaltoday.com/aortic-dissection-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/jhgfds-min.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "Batman Day",
-          "url": "https://nationaltoday.com/batman-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Batman.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "Day of the Glories of the Army",
-          "url": "https://nationaltoday.com/day-of-the-glories-of-the-army/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4568154-min-1.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "International Coastal Cleanup Day",
-          "url": "https://nationaltoday.com/international-coastal-cleanup-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Coastal-Cleanup-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "International Eat An Apple Day",
-          "url": "https://nationaltoday.com/international-eat-an-apple-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Eat-An-Apple-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "International Red Panda Day",
-          "url": "https://nationaltoday.com/international-red-panda-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Red-Panda-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National AKC Responsible Dog Ownership Day",
-          "url": "https://nationaltoday.com/national-akc-responsible-dog-ownership-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/11-Dog-Parent-Appreciation-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Boys\u2019 and Girls\u2019 Club Day for Kids",
-          "url": "https://nationaltoday.com/national-boys-and-girls-club-day-for-kids/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Frame-182-min-1.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Butterscotch Pudding Day",
-          "url": "https://nationaltoday.com/national-butterscotch-pudding-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Butterscotch-Pudding-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Cat DNA Day",
-          "url": "https://nationaltoday.com/national-cat-dna-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Cat-DNA-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Clean Up Day",
-          "url": "https://nationaltoday.com/national-clean-up-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Cleanup-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Gymnastics Day",
-          "url": "https://nationaltoday.com/national-gymnastics-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-gymnastics-day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Multivitamin Day",
-          "url": "https://nationaltoday.com/national-multivitamin-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2024/09/multivitamin.png",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Sew a Jelly Roll Day",
-          "url": "https://nationaltoday.com/national-sew-a-jelly-roll-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Sew-a-Jelly-Roll-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "National Woman Road Warrior Day",
-          "url": "https://nationaltoday.com/national-woman-road-warrior-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Woman-Road-Warrior-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "Puppy Mill Awareness Day",
-          "url": "https://nationaltoday.com/puppy-mill-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Puppy-Mill-Awareness-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "Responsible Dog Ownership Day",
-          "url": "https://nationaltoday.com/responsible-dog-ownership-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Responsible-Dog-Ownership-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        },
-        {
-          "name": "Usher Syndrome Awareness Day",
-          "url": "https://nationaltoday.com/usher-syndrome-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-22-min.jpg",
-          "weekday": "SAT",
-          "month_day": "SEP 19"
-        }
-      ]
-    },
     "2026-09-20": {
       "date": "2026-09-20",
       "label": "Sunday, September 20, 2026",
@@ -370,6 +206,142 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/05/134-Mini-Golf.jpg",
           "weekday": "MON",
           "month_day": "SEP 21"
+        }
+      ]
+    },
+    "2026-09-22": {
+      "date": "2026-09-22",
+      "label": "Tuesday, September 22, 2026",
+      "weekday": "TUE",
+      "month_day": "SEP 22",
+      "source": "https://nationaltoday.com/september-22/",
+      "count": 18,
+      "holidays": [
+        {
+          "name": "National Ice Cream Cone Day",
+          "url": "https://nationaltoday.com/national-ice-cream-cone-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-ice-cream-cone-day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "American Business Women\u2019s Day",
+          "url": "https://nationaltoday.com/american-business-womens-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/American-Business-Womens-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "Car-free Sunday",
+          "url": "https://nationaltoday.com/car-free-sunday/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567932-min.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "Chainmail Day",
+          "url": "https://nationaltoday.com/chainmail-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Chainmail-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "Dear Diary Day",
+          "url": "https://nationaltoday.com/dear-diary-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Dear-Diary-Day-1.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "Elephant Appreciation Day",
+          "url": "https://nationaltoday.com/elephant-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Elephant-Appreciation.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "Falls Prevention Awareness Day",
+          "url": "https://nationaltoday.com/falls-prevention-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/falls-prevention-awareness-day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "Hobbit Day",
+          "url": "https://nationaltoday.com/hobbit-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Hobbit.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "International Day of Radiant Peace",
+          "url": "https://nationaltoday.com/international-day-of-radiant-peace/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Day-of-Radiant-Peace.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "Mali Independence Day",
+          "url": "https://nationaltoday.com/mali-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/Mali-Independence-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "National Centenarian's Day",
+          "url": "https://nationaltoday.com/national-centenarians-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Centenarians-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "National Girls\u2019 Night In Day",
+          "url": "https://nationaltoday.com/national-girls-night-in-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Girls-night.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "National Khalid Day",
+          "url": "https://nationaltoday.com/national-khalid-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/National-Khalid-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "National Legwear Day",
+          "url": "https://nationaltoday.com/national-legwear-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Legwear-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "National Temperature Control Day",
+          "url": "https://nationaltoday.com/national-temperature-control-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Temperature-Control-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "National White Chocolate Day",
+          "url": "https://nationaltoday.com/national-white-chocolate-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-white-chocolate-day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "World Car-Free Day",
+          "url": "https://nationaltoday.com/world-car-free-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568208-min.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
+        },
+        {
+          "name": "World Rhino Day",
+          "url": "https://nationaltoday.com/world-rhino-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/World-Rhino-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 22"
         }
       ]
     }
