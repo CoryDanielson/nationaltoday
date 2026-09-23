@@ -1,148 +1,12 @@
 {
-  "scraped_at": "Sep 22, 2026 \u00b7 10:29 AM UTC",
-  "today": "2026-09-22",
+  "scraped_at": "Sep 23, 2026 \u00b7 10:23 AM UTC",
+  "today": "2026-09-23",
   "order": [
-    "2026-09-21",
     "2026-09-22",
-    "2026-09-23"
+    "2026-09-23",
+    "2026-09-24"
   ],
   "days": {
-    "2026-09-21": {
-      "date": "2026-09-21",
-      "label": "Monday, September 21, 2026",
-      "weekday": "MON",
-      "month_day": "SEP 21",
-      "source": "https://nationaltoday.com/september-21/",
-      "count": 18,
-      "holidays": [
-        {
-          "name": "Yom Kippur",
-          "url": "https://nationaltoday.com/yom-kippur/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Yom-Kippur.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "Armenia Independence Day",
-          "url": "https://nationaltoday.com/armenia-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/27-Armenia-Independence-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "Belize Independence Day",
-          "url": "https://nationaltoday.com/belize-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Belize-Independence-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "Escapology Day",
-          "url": "https://nationaltoday.com/escapology-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Escapology-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "International Day of Peace",
-          "url": "https://nationaltoday.com/international-day-of-peace/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/international-day-of-peace.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "Mabon",
-          "url": "https://nationaltoday.com/mabon/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568320-min.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "Malta Independence Day",
-          "url": "https://nationaltoday.com/malta-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Malta-Independence-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "Miniature Golf Day",
-          "url": "https://nationaltoday.com/miniature-golf-day-september-21/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Miniature-Golf.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "National Cat & Dog Gut Health Awareness Day",
-          "url": "https://nationaltoday.com/national-cat-dog-gut-health-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/close-up-owner-with-cat-dog-scaled.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "National Chai Day",
-          "url": "https://nationaltoday.com/national-chai-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Chai-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "National Garage Condo Day",
-          "url": "https://nationaltoday.com/national-garage-condo-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/27-Garage-Condo-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "National Opioid Awareness Day",
-          "url": "https://nationaltoday.com/national-opioid-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/22-Opioid-Awareness.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "National Pecan Cookie Day",
-          "url": "https://nationaltoday.com/national-pecan-cookie-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Pecan-Cookie-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "Respect for the Aged Day",
-          "url": "https://nationaltoday.com/respect-aged-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/04/Respect-for-the-Aged.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "Telegraph Pole Appreciation Day",
-          "url": "https://nationaltoday.com/telegraph-pole-appreciation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Frame-180-min-1.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "World Alzheimer\u2019s Day",
-          "url": "https://nationaltoday.com/world-alzheimers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/World-Alzheimer.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "World Gratitude Day",
-          "url": "https://nationaltoday.com/world-gratitude-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/13-Gratitude-Day.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        },
-        {
-          "name": "World Mini Golf Day",
-          "url": "https://nationaltoday.com/world-mini-golf-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/134-Mini-Golf.jpg",
-          "weekday": "MON",
-          "month_day": "SEP 21"
-        }
-      ]
-    },
     "2026-09-22": {
       "date": "2026-09-22",
       "label": "Tuesday, September 22, 2026",
@@ -433,6 +297,114 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Zaatar-Day.jpg",
           "weekday": "WED",
           "month_day": "SEP 23"
+        }
+      ]
+    },
+    "2026-09-24": {
+      "date": "2026-09-24",
+      "label": "Thursday, September 24, 2026",
+      "weekday": "THU",
+      "month_day": "SEP 24",
+      "source": "https://nationaltoday.com/september-24/",
+      "count": 14,
+      "holidays": [
+        {
+          "name": "National Cherries Jubilee Day",
+          "url": "https://nationaltoday.com/national-cherries-jubilee-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-cherries-jubilee-day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "Bluebird of Happiness Day",
+          "url": "https://nationaltoday.com/bluebird-of-happiness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Bluebird-of-Happiness-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "Bollywood Day",
+          "url": "https://nationaltoday.com/bollywood-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/World-Bollywood-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "Heritage Day",
+          "url": "https://nationaltoday.com/heritage-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/heritage-day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "Innergize Day",
+          "url": "https://nationaltoday.com/innergize-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Innergize-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "Lash Stylist Day",
+          "url": "https://nationaltoday.com/lash-stylist-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Lash-Stylists-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "National Horchata Day",
+          "url": "https://nationaltoday.com/national-horchata-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Horchata-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "National Mofongo Day",
+          "url": "https://nationaltoday.com/national-mofongo-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Mofongo-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "National Punctuation Day",
+          "url": "https://nationaltoday.com/national-punctuation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Punctuation.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "Our Lady of Mercy Day",
+          "url": "https://nationaltoday.com/our-lady-of-mercy-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4568151-min-1.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "Remember Me Thursday",
+          "url": "https://nationaltoday.com/remember-me-thursday/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Remember-Me-Thursday.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "Schwenkfelder Thanksgiving",
+          "url": "https://nationaltoday.com/schwenkfelder-thanksgiving/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Schwenkfelder-Thanksgiving.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "World Maritime Day",
+          "url": "https://nationaltoday.com/world-maritime-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/World-Maritime-Day.jpg",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
+          "name": "World Quantum Readiness Day",
+          "url": "https://nationaltoday.com/world-quantum-readiness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2024/04/NationalDay_Quantum_2048\u200a\u00d7\u200a1365.webp",
+          "weekday": "THU",
+          "month_day": "SEP 24"
         }
       ]
     }
