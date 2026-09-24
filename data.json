@@ -1,148 +1,12 @@
 {
-  "scraped_at": "Sep 23, 2026 \u00b7 10:23 AM UTC",
-  "today": "2026-09-23",
+  "scraped_at": "Sep 24, 2026 \u00b7 10:40 AM UTC",
+  "today": "2026-09-24",
   "order": [
-    "2026-09-22",
     "2026-09-23",
-    "2026-09-24"
+    "2026-09-24",
+    "2026-09-25"
   ],
   "days": {
-    "2026-09-22": {
-      "date": "2026-09-22",
-      "label": "Tuesday, September 22, 2026",
-      "weekday": "TUE",
-      "month_day": "SEP 22",
-      "source": "https://nationaltoday.com/september-22/",
-      "count": 18,
-      "holidays": [
-        {
-          "name": "National Ice Cream Cone Day",
-          "url": "https://nationaltoday.com/national-ice-cream-cone-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-ice-cream-cone-day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "American Business Women\u2019s Day",
-          "url": "https://nationaltoday.com/american-business-womens-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/American-Business-Womens-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "Car-free Sunday",
-          "url": "https://nationaltoday.com/car-free-sunday/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567932-min.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "Chainmail Day",
-          "url": "https://nationaltoday.com/chainmail-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Chainmail-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "Dear Diary Day",
-          "url": "https://nationaltoday.com/dear-diary-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Dear-Diary-Day-1.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "Elephant Appreciation Day",
-          "url": "https://nationaltoday.com/elephant-appreciation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Elephant-Appreciation.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "Falls Prevention Awareness Day",
-          "url": "https://nationaltoday.com/falls-prevention-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/falls-prevention-awareness-day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "Hobbit Day",
-          "url": "https://nationaltoday.com/hobbit-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Hobbit.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "International Day of Radiant Peace",
-          "url": "https://nationaltoday.com/international-day-of-radiant-peace/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Day-of-Radiant-Peace.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "Mali Independence Day",
-          "url": "https://nationaltoday.com/mali-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/Mali-Independence-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "National Centenarian's Day",
-          "url": "https://nationaltoday.com/national-centenarians-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Centenarians-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "National Girls\u2019 Night In Day",
-          "url": "https://nationaltoday.com/national-girls-night-in-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Girls-night.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "National Khalid Day",
-          "url": "https://nationaltoday.com/national-khalid-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/National-Khalid-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "National Legwear Day",
-          "url": "https://nationaltoday.com/national-legwear-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Legwear-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "National Temperature Control Day",
-          "url": "https://nationaltoday.com/national-temperature-control-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Temperature-Control-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "National White Chocolate Day",
-          "url": "https://nationaltoday.com/national-white-chocolate-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-white-chocolate-day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "World Car-Free Day",
-          "url": "https://nationaltoday.com/world-car-free-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568208-min.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        },
-        {
-          "name": "World Rhino Day",
-          "url": "https://nationaltoday.com/world-rhino-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/World-Rhino-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 22"
-        }
-      ]
-    },
     "2026-09-23": {
       "date": "2026-09-23",
       "label": "Wednesday, September 23, 2026",
@@ -316,6 +180,13 @@
           "month_day": "SEP 24"
         },
         {
+          "name": "World Quantum Readiness Day",
+          "url": "https://nationaltoday.com/world-quantum-readiness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2024/04/NationalDay_Quantum_2048\u200a\u00d7\u200a1365.webp",
+          "weekday": "THU",
+          "month_day": "SEP 24"
+        },
+        {
           "name": "Bluebird of Happiness Day",
           "url": "https://nationaltoday.com/bluebird-of-happiness-day/",
           "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Bluebird-of-Happiness-Day.jpg",
@@ -398,13 +269,254 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2021/09/World-Maritime-Day.jpg",
           "weekday": "THU",
           "month_day": "SEP 24"
+        }
+      ]
+    },
+    "2026-09-25": {
+      "date": "2026-09-25",
+      "label": "Friday, September 25, 2026",
+      "weekday": "FRI",
+      "month_day": "SEP 25",
+      "source": "https://nationaltoday.com/september-25/",
+      "count": 34,
+      "holidays": [
+        {
+          "name": "National Daughters Day",
+          "url": "https://nationaltoday.com/national-daughters-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Daughters.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
         },
         {
-          "name": "World Quantum Readiness Day",
-          "url": "https://nationaltoday.com/world-quantum-readiness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2024/04/NationalDay_Quantum_2048\u200a\u00d7\u200a1365.webp",
-          "weekday": "THU",
-          "month_day": "SEP 24"
+          "name": "National Lobster Day",
+          "url": "https://nationaltoday.com/national-lobster-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-lobster-day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "AFL Grand Final Friday",
+          "url": "https://nationaltoday.com/afl-grand-final-friday/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/AFL-Grand-Final-Friday.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "American Indian Day",
+          "url": "https://nationaltoday.com/american-indian-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/14-American-Indian-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Binge Day",
+          "url": "https://nationaltoday.com/binge-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/21-Binge-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Chuseok",
+          "url": "https://nationaltoday.com/chuseok/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Harvest-Moon-Festival.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "German Butterbrot Day",
+          "url": "https://nationaltoday.com/german-butterbrot-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/German-Butterbrot-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "German Sandwich Day",
+          "url": "https://nationaltoday.com/german-sandwich-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/german-sandwich-day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Hug A Vegetarian Day",
+          "url": "https://nationaltoday.com/hug-a-vegetarian-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Hug-A-Vegetarian-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "International Ataxia Awareness Day",
+          "url": "https://nationaltoday.com/international-ataxia-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Ataxia-Awareness-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Mahalaya",
+          "url": "https://nationaltoday.com/mahalaya/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Mahalaya.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Math Storytelling Day",
+          "url": "https://nationaltoday.com/math-storytelling-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Math-Storytelling-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Michigan Indian Day",
+          "url": "https://nationaltoday.com/michigan-indian-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/41-Michigan-Indian-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Mid-Autumn Festival",
+          "url": "https://nationaltoday.com/mid-autumn-festival/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/10/mid-autumn.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Mid-Autumn Moon Festival",
+          "url": "https://nationaltoday.com/mid-autumn-moon-festival-china-taiwan/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Mid-Autumn-Moon-Festival-1.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National BRAVE Day",
+          "url": "https://nationaltoday.com/national-brave-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-BRAVE-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National Comic Book Day",
+          "url": "https://nationaltoday.com/national-comic-book-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Comic-Book.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National Cooking Day",
+          "url": "https://nationaltoday.com/national-cooking-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/cooking.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National Food Service Workers Day",
+          "url": "https://nationaltoday.com/national-food-service-workers-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Food-Service-Employee-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National One-Hit Wonder Day",
+          "url": "https://nationaltoday.com/national-one-hit-wonder-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-One-Hit-Wonder-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National Psychotherapy Day",
+          "url": "https://nationaltoday.com/national-psychotherapy-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Psychotherapy-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National Quesadilla Day",
+          "url": "https://nationaltoday.com/national-quesadilla-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Quesadilla-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National Roadkill Day",
+          "url": "https://nationaltoday.com/national-roadkill-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Roadkill-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National Tune-Up Day",
+          "url": "https://nationaltoday.com/national-tune-up-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Tune-Up-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "National YogaFit Day",
+          "url": "https://nationaltoday.com/national-yogafit-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567930-min.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Native American Day",
+          "url": "https://nationaltoday.com/native-american-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Native-American-1.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "One-Hit Wonder Day",
+          "url": "https://nationaltoday.com/one-hit-wonder-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/One-Hit-Wonder-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Research Administrators Day",
+          "url": "https://nationaltoday.com/research-administrators-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Research-Administrator-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Save The Koala Day",
+          "url": "https://nationaltoday.com/save-the-koala-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Save-The-Koala-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Sport Purple for Platelets Day",
+          "url": "https://nationaltoday.com/sport-purple-for-platelets-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Sport-Purple-for-Platelets-1.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "Sukkot",
+          "url": "https://nationaltoday.com/sukkot/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/10/Sukkot.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "World Dream Day",
+          "url": "https://nationaltoday.com/world-dream-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/World-Dream-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "World Pharmacist Day",
+          "url": "https://nationaltoday.com/world-pharmacist-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/World-Pharmacists-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
+        },
+        {
+          "name": "World\u2019s Biggest Coffee Morning",
+          "url": "https://nationaltoday.com/worlds-biggest-coffee-morning/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Worlds-Biggest-Coffee-Morning.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 25"
         }
       ]
     }
