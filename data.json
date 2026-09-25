@@ -1,169 +1,12 @@
 {
-  "scraped_at": "Sep 24, 2026 \u00b7 10:40 AM UTC",
-  "today": "2026-09-24",
+  "scraped_at": "Sep 25, 2026 \u00b7 10:43 AM UTC",
+  "today": "2026-09-25",
   "order": [
-    "2026-09-23",
     "2026-09-24",
-    "2026-09-25"
+    "2026-09-25",
+    "2026-09-26"
   ],
   "days": {
-    "2026-09-23": {
-      "date": "2026-09-23",
-      "label": "Wednesday, September 23, 2026",
-      "weekday": "WED",
-      "month_day": "SEP 23",
-      "source": "https://nationaltoday.com/september-23/",
-      "count": 21,
-      "holidays": [
-        {
-          "name": "Fall Equinox",
-          "url": "https://nationaltoday.com/fall-equinox/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/fall-equinox.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "Celebrate Bisexuality Day",
-          "url": "https://nationaltoday.com/celebrate-bisexuality-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Celebrate-Bisexuality-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "Education Technology Day",
-          "url": "https://nationaltoday.com/education-technology-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/4-Education-Technology-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "Elvis Festival Porthcawl",
-          "url": "https://nationaltoday.com/elvis-festival-porthcawl/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Porthcawl-Elvis-Festival.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "First Day of Autumn",
-          "url": "https://nationaltoday.com/first-day-of-autumn/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/1-First-Day-of-Autumn.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "Go With Your Gut Day",
-          "url": "https://nationaltoday.com/go-with-your-gut-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Go-With-Your-Gut-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "International Day of Sign Languages",
-          "url": "https://nationaltoday.com/international-day-of-sign-languages/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Day-of-Sign-Languages.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "National AFM Day",
-          "url": "https://nationaltoday.com/national-afm-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/lkjhgfhjkl-10-min.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "National Apple Cider Vinegar Day",
-          "url": "https://nationaltoday.com/national-apple-cider-vinegar-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Apple-Cider-Vinegar-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "National Baker Day",
-          "url": "https://nationaltoday.com/national-baker-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/5-national-baker-day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "National Checkers Day",
-          "url": "https://nationaltoday.com/national-checkers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Checkers-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "National Dogs in Politics Day",
-          "url": "https://nationaltoday.com/national-dogs-politics-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/dogs-politics-day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "National Field Marketer\u2019s Day",
-          "url": "https://nationaltoday.com/national-field-marketers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568261-min.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "National Great American Pot Pie Day",
-          "url": "https://nationaltoday.com/national-great-american-pot-pie-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Great-American-Pot-Pie-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "National Snack Stick Day",
-          "url": "https://nationaltoday.com/national-snack-stick-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Snack-Stick-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "Restless Legs Awareness Day",
-          "url": "https://nationaltoday.com/restless-legs-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Restless-Legs-Awareness-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "Seed Gathering Season",
-          "url": "https://nationaltoday.com/seed-gathering-season-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/7-Seed-Gathering-Sunday.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "September Equinox",
-          "url": "https://nationaltoday.com/september-equinox/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568318-min.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "Teal Talk Day",
-          "url": "https://nationaltoday.com/teal-talk-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Teal-Talk-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "The September Equinox",
-          "url": "https://nationaltoday.com/the-september-equinox/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/29-The-September-Equinox.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        },
-        {
-          "name": "Za\u2019atar Day",
-          "url": "https://nationaltoday.com/zaatar-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Zaatar-Day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 23"
-        }
-      ]
-    },
     "2026-09-24": {
       "date": "2026-09-24",
       "label": "Thursday, September 24, 2026",
@@ -517,6 +360,261 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Worlds-Biggest-Coffee-Morning.jpg",
           "weekday": "FRI",
           "month_day": "SEP 25"
+        }
+      ]
+    },
+    "2026-09-26": {
+      "date": "2026-09-26",
+      "label": "Saturday, September 26, 2026",
+      "weekday": "SAT",
+      "month_day": "SEP 26",
+      "source": "https://nationaltoday.com/september-26/",
+      "count": 35,
+      "holidays": [
+        {
+          "name": "National Singles Day",
+          "url": "https://nationaltoday.com/national-singles-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-singles-day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Alpaca Day",
+          "url": "https://nationaltoday.com/alpaca-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Alpaca-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Better Breakfast Day",
+          "url": "https://nationaltoday.com/better-breakfast-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Better-Breakfast.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Dominion Status Day",
+          "url": "https://nationaltoday.com/dominion-status-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Dominion-Status-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "European Day of Languages",
+          "url": "https://nationaltoday.com/european-day-of-languages/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-15-min-1.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "European Languages Day",
+          "url": "https://nationaltoday.com/european-languages-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/lkjhgfhjkl-1-min-21.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Family Health & Fitness Day USA",
+          "url": "https://nationaltoday.com/family-health-fitness-day-usa/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/02/family-health-and-fitness-day-usa.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Fish Amnesty Day",
+          "url": "https://nationaltoday.com/fish-amnesty-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Fish-Amnesty-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "HR Professionals Day",
+          "url": "https://nationaltoday.com/hr-professionals-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Frame-163-min.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "International Day for the Total Elimination of Nuclear Weapons",
+          "url": "https://nationaltoday.com/international-day-for-the-total-elimination-of-nuclear-weapons/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/17-Elimination-of-Nuclear-Weapons.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "International Lace Day",
+          "url": "https://nationaltoday.com/international-lace-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Lace-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "International Rabbit Day",
+          "url": "https://nationaltoday.com/international-rabbit-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/International-Rabbit-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "International Rabbit Day",
+          "url": "https://nationaltoday.com/international-rabbit-day-2/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/rabbit-day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Johnny Appleseed Day",
+          "url": "https://nationaltoday.com/johnny-appleseed-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Johnny-Appleseed.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Love Note Day",
+          "url": "https://nationaltoday.com/love-note-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Love-Note-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Lumberjack Day",
+          "url": "https://nationaltoday.com/lumberjack-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4568056-min-1.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Mera Chaoren Houba",
+          "url": "https://nationaltoday.com/mera-chaoren-houba/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-110-min.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Bunny Day",
+          "url": "https://nationaltoday.com/national-bunny-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-bunny-day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Chimichanga Day",
+          "url": "https://nationaltoday.com/national-chimichanga-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Awe_Macayos_Photo_4-1.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Compliance Officer Day",
+          "url": "https://nationaltoday.com/national-compliance-officer-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Compliance-Officer-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Day of Praise and Worship",
+          "url": "https://nationaltoday.com/national-day-of-praise-and-worship/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/24-National-Day-of-Praise-and-Worship.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Dumpling Day",
+          "url": "https://nationaltoday.com/national-dumpling-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Dumpling.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Ghost Hunting Day",
+          "url": "https://nationaltoday.com/national-ghost-hunting-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Ghost-Hunting-Day-1.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Hunting and Fishing Day",
+          "url": "https://nationaltoday.com/national-hunting-and-fishing-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Hunting-and-Fishing.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Key Lime Pie Day",
+          "url": "https://nationaltoday.com/national-key-lime-pie-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/10/456840888-min.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Law Enforcement Suicide Awareness Day",
+          "url": "https://nationaltoday.com/national-law-enforcement-suicide-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Law-Enforcement-Suicide-Awareness-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Mesothelioma Awareness Day",
+          "url": "https://nationaltoday.com/national-mesothelioma-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-mesothelioma-awareness-day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Pancake Day",
+          "url": "https://nationaltoday.com/national-pancake-day-2/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-pancake-day-september.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Public Lands Day",
+          "url": "https://nationaltoday.com/national-public-lands-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Public-Lands.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Seat Check Saturday",
+          "url": "https://nationaltoday.com/national-seat-check-saturday/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/National-Seat-Check-Saturday.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "National Situational Awareness Day",
+          "url": "https://nationaltoday.com/national-situational-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Situational-Awareness-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Pitru Paksha",
+          "url": "https://nationaltoday.com/pitru-paksha/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/pitru-paksha.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Save Your Photos Day",
+          "url": "https://nationaltoday.com/save-your-photos-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Save-Your-Photos-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "Shamu the Whale Day",
+          "url": "https://nationaltoday.com/shamu-the-whale-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Shamu-the-Whale-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
+        },
+        {
+          "name": "World\u2019s Largest Pet Walk",
+          "url": "https://nationaltoday.com/worlds-largest-pet-walk/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/22-World-Largest-Pet-Walk.jpg",
+          "weekday": "SAT",
+          "month_day": "SEP 26"
         }
       ]
     }
