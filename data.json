@@ -1,120 +1,12 @@
 {
-  "scraped_at": "Sep 25, 2026 \u00b7 10:43 AM UTC",
-  "today": "2026-09-25",
+  "scraped_at": "Sep 26, 2026 \u00b7 10:26 AM UTC",
+  "today": "2026-09-26",
   "order": [
-    "2026-09-24",
     "2026-09-25",
-    "2026-09-26"
+    "2026-09-26",
+    "2026-09-27"
   ],
   "days": {
-    "2026-09-24": {
-      "date": "2026-09-24",
-      "label": "Thursday, September 24, 2026",
-      "weekday": "THU",
-      "month_day": "SEP 24",
-      "source": "https://nationaltoday.com/september-24/",
-      "count": 14,
-      "holidays": [
-        {
-          "name": "National Cherries Jubilee Day",
-          "url": "https://nationaltoday.com/national-cherries-jubilee-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/national-cherries-jubilee-day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "World Quantum Readiness Day",
-          "url": "https://nationaltoday.com/world-quantum-readiness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2024/04/NationalDay_Quantum_2048\u200a\u00d7\u200a1365.webp",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "Bluebird of Happiness Day",
-          "url": "https://nationaltoday.com/bluebird-of-happiness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Bluebird-of-Happiness-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "Bollywood Day",
-          "url": "https://nationaltoday.com/bollywood-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/World-Bollywood-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "Heritage Day",
-          "url": "https://nationaltoday.com/heritage-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/heritage-day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "Innergize Day",
-          "url": "https://nationaltoday.com/innergize-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Innergize-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "Lash Stylist Day",
-          "url": "https://nationaltoday.com/lash-stylist-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Lash-Stylists-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "National Horchata Day",
-          "url": "https://nationaltoday.com/national-horchata-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Horchata-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "National Mofongo Day",
-          "url": "https://nationaltoday.com/national-mofongo-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Mofongo-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "National Punctuation Day",
-          "url": "https://nationaltoday.com/national-punctuation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Punctuation.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "Our Lady of Mercy Day",
-          "url": "https://nationaltoday.com/our-lady-of-mercy-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4568151-min-1.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "Remember Me Thursday",
-          "url": "https://nationaltoday.com/remember-me-thursday/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Remember-Me-Thursday.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "Schwenkfelder Thanksgiving",
-          "url": "https://nationaltoday.com/schwenkfelder-thanksgiving/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Schwenkfelder-Thanksgiving.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        },
-        {
-          "name": "World Maritime Day",
-          "url": "https://nationaltoday.com/world-maritime-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/World-Maritime-Day.jpg",
-          "weekday": "THU",
-          "month_day": "SEP 24"
-        }
-      ]
-    },
     "2026-09-25": {
       "date": "2026-09-25",
       "label": "Friday, September 25, 2026",
@@ -615,6 +507,142 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/07/22-World-Largest-Pet-Walk.jpg",
           "weekday": "SAT",
           "month_day": "SEP 26"
+        }
+      ]
+    },
+    "2026-09-27": {
+      "date": "2026-09-27",
+      "label": "Sunday, September 27, 2026",
+      "weekday": "SUN",
+      "month_day": "SEP 27",
+      "source": "https://nationaltoday.com/september-27/",
+      "count": 18,
+      "holidays": [
+        {
+          "name": "Wife Appreciation Day",
+          "url": "https://nationaltoday.com/wife-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/\u200bWife-Appreciation.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "World Tourism Day",
+          "url": "https://nationaltoday.com/world-tourism-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/World-Tourism.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "Ancestor Appreciation Day",
+          "url": "https://nationaltoday.com/ancestor-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Ancestor-Appreciation-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "Day of the French Community",
+          "url": "https://nationaltoday.com/day-of-the-french-community-belgium/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Day-of-the-French-Community.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "Gold Star Mother\u2019s and Family Day",
+          "url": "https://nationaltoday.com/gold-star-mothers-and-family-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Gold-Star-Mothers-and-Family.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "Morning Show Hosts Day",
+          "url": "https://nationaltoday.com/morning-show-hosts-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Morning-Show-Hosts-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "National AJ Day",
+          "url": "https://nationaltoday.com/national-aj-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/15-National-AJ-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "National Chocolate Milk Day",
+          "url": "https://nationaltoday.com/national-chocolate-milk-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Chocolate-Milk.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "NATIONAL CORNED BEEF HASH DAY",
+          "url": "https://nationaltoday.com/national-corned-beef-hash-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/NATIONAL-CORNED-BEEF-HASH-DAY.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "NATIONAL CRUSH A CAN DAY",
+          "url": "https://nationaltoday.com/national-crush-a-can-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/NATIONAL-CRUSH-A-CAN-DAY-.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "National Crush Day",
+          "url": "https://nationaltoday.com/national-crush-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/\u200bNational-Crush-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "National No Excuses Day",
+          "url": "https://nationaltoday.com/national-no-excuses-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/SCE344_BrandLove_Creative1_1200x1200_FINAL-1.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "National Police Memorial Day",
+          "url": "https://nationaltoday.com/national-police-memorial-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Police-Memorial-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "National Scarf Day",
+          "url": "https://nationaltoday.com/national-scarf-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/National-Scarf-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "Turkmenistan Independence Day",
+          "url": "https://nationaltoday.com/turkmenistan-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Turkmenistan-Independence-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "World Day of Migrants and Refugees",
+          "url": "https://nationaltoday.com/world-day-of-migrants-and-refugees/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/World-Day-of-Migrants-and-Refugees.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "World Deaf Day",
+          "url": "https://nationaltoday.com/world-deaf-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/World-Day-of-The-Deaf.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
+        },
+        {
+          "name": "World Rivers Day",
+          "url": "https://nationaltoday.com/world-rivers-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/Rivers-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "SEP 27"
         }
       ]
     }
